@@ -1,5 +1,8 @@
 - 👋 Hi, I’m VoonYuan
-- 👀 I’m interested in front-end developing
+- 👀 I’m System Adminstrator
+- Dream in Opensource
+- Cloud enthusiast
+- Jr Network
 - 🌱 I’m currently a undergraduate student
 
 
